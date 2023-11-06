@@ -1,0 +1,8 @@
+{
+    "Secrets": [
+        {
+            "id": 1,
+            "secret": "secret here"
+        }
+    ]
+}
